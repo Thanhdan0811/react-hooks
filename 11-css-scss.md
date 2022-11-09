@@ -27,3 +27,8 @@ style={clsx(style.btn, {
 })};
 
 ```
+# Cài sass/scss
+- npm i sass 
+
+# Cài nomolize 
+- npm i --save normalize.css

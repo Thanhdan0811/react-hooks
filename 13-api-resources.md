@@ -1,0 +1,2 @@
+- https://rapidapi.com/hub?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
+- https://rapidapi.com/neoscrap-net/api/google-search72/
