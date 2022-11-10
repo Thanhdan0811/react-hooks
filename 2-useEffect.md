@@ -60,9 +60,8 @@ useEffect(() => {
 ```
 
 hàm trên sẽ chỉ gặp lỗi clouser , hàm callback sẽ chỉ chạy 1 lần nên sẽ luôn tham chiếu đến giá trị countdown cũ.
+
 - Ta có thể dùng hàm callback với setCoundown.
-
-
 
 ```
 
@@ -75,7 +74,6 @@ useEffect(() => {
 ```
 
 SetTimeout thì sẽ hoaạt động bth.
-
 
 ### Clean up image
 
@@ -93,7 +91,7 @@ const [avatar, setAvatar] = useState();
 
   const handlePreviewAvarta = (e) => {
     const file = e.target.files[0];
-    
+
 
     file.preview = URL.createObjectURL(file);
 
